@@ -4,3 +4,4 @@ Página HTML para o site da Universidade UNES, atividade proposta para a seção
 
 Link para a página: [Universidade UNES](https://plgisele.github.io/html-unes/ "Universidade UNES")
 
+![Universidade UNES](Imagens/unes.gif "Universidade UNES")
